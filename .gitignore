@@ -6,3 +6,6 @@
 *~
 */models/iris/*.sdf
 *.user
+*.cpp.bak
+*.h.bak
+*.hpp.bak
